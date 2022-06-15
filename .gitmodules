@@ -1,0 +1,3 @@
+[submodule "odooplm"]
+	path = odooplm
+	url = https://github.com/OmniaGit/odooplm
